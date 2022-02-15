@@ -2,8 +2,7 @@
 
 # Lista de Exercicios em python 🐍
 
-<p>Exercícios propostos para aprendizado da linguagem, estão divididos entre os mais básicos até os mais avançados, segue abaixo os tópicos que foram abordados:</p>
-<br>
+<p>Exercícios propostos pela comunidade Python Brasil para aprendizado da linguagem, estão divididos entre os mais básicos até os mais avançados, segue abaixo os tópicos que foram abordados:</p>
 
 <ul>
   <li>Estrutura Sequencial</li>
@@ -14,7 +13,6 @@
   <li>Exercícios com Strings</li>
   <li>Exercícios com Classes</li>
 </ul>
-<br>
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
